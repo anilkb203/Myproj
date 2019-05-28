@@ -1,11 +1,11 @@
 # Myproj
 pre-condition:
 ---------------
-1.Install the required software like jdk8,android sdk 145 bundle,eclipse IDE ,selenium webdriver jar(3.14.0),selenium standalone jar,appium java client jar(1.6.0) and testng enabled.
+1.Install the required software like jdk8,android sdk 145 bundle,eclipse IDE and associate selenium webdriver jar(3.14.0),selenium standalone jar,appium java client jar(1.6.0) and make sure testng is enabled.
 
 2.Need to install Appium desktop server and start appium server manually 
 
-2.In android mobile settings, "USB debugging" and "stayawake" options should be selected
+3.In android mobile settings, "USB debugging" and "stayawake" options should be selected
 
 
 
